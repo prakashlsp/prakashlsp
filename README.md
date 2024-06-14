@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prakashlsp
+- 👋 Hi, I’m @prakashls
 - 👀 I’m interested in build carrier in DataScience
 - 🌱 I’m currently learning Python
 - 📫 How to reach me lspraksh17@gmail.com
